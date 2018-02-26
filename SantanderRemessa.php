@@ -61,7 +61,7 @@ class SantanderRemessa
     public $agencia = '0123';
     public $agenciaDv = 7;                # digito verificador da agencia
     public $conta_movimento = '01234567'; # Conta movimento Beneficiário 8 posicoes
-    public $conta = '9308270';            # Conta cobrança Beneficiário 7 posicoes
+    public $conta = '0123456';            # Conta cobrança Beneficiário 7 posicoes
 	public $contaDv;
     public $carteira = 101;
 	public $carteiras = [101];            # se for trabalhar com outras carteiras deixe vazio essa propriedade.
