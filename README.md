@@ -8,3 +8,5 @@ Com essa classe o usuário não fica obrigado a usar um framework para poder ger
 **Importante!** Essa classe requer os dados gerados pelo boleto Santander.
 
 Testado com diversas versões do PHP >=5.6 no servidor debian com Nginx e Apache.
+
+**A Classe foi homologada pelo banco Santander em fevereiro de 2018, para usa-la faça as devidas alterações para atender as suas necessidades.**
